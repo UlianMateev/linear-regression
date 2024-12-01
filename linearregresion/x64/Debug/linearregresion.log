@@ -1,0 +1,10 @@
+﻿  linearregresion.cpp
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\visual.h(48,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\visual.h(54,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\visual.h(54,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\visual.h(66,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\model.h(59,16): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\model.h(60,16): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\linearregresion.cpp(28,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\linearregresion.cpp(28,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  linearregresion.vcxproj -> C:\Users\Ivaylo Ivanov\Desktop\programing\linearregresion\x64\Debug\linearregresion.exe
